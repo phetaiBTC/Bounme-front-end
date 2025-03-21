@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MadimiOne';
+    src: url('~/assets/fonts/MadimiOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'NotoSansLao';
+    src: url('~/assets/fonts/NotoSansLao-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

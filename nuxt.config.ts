@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: [
     '~/assets/css/main.css',
+    '~/assets/css/font.css',
     'ant-design-vue/dist/reset.css'
   ],
   vite: {
